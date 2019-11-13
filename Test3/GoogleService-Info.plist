@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>659399744214-e99cjls5thmrmfrvvfcs6vn427qqkmjo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.659399744214-e99cjls5thmrmfrvvfcs6vn427qqkmjo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDec4YJfwqi1FJj-CS64D5PSnJQVuIb8Hw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>659399744214</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Ivan-Riyanto.Test3</string>
+	<key>PROJECT_ID</key>
+	<string>real-time-messaging-ebc44</string>
+	<key>STORAGE_BUCKET</key>
+	<string>real-time-messaging-ebc44.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:659399744214:ios:a243cbb7d7c14f06504777</string>
+	<key>DATABASE_URL</key>
+	<string>https://real-time-messaging-ebc44.firebaseio.com</string>
+</dict>
+</plist>
